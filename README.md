@@ -28,6 +28,13 @@ I'm a graduate student pursuing a Masters in Artificial Intelligence and Data Sc
 - Databases: SQL, SQLite
 - Other: Jupyter Notebooks, Data Visualization, Gcolab(Google Colaboratory)
 
+## 🌱 Currently Learning
+I am currently focused on:
+
+- Advanced machine learning techniques.
+- Deep learning architectures and frameworks.
+- Big data technologies such as Apache Spark, Hive, Hadoop, Azure.
+  
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/prachi-varshney-2b067a123/)
