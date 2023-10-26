@@ -19,6 +19,10 @@ I'm a graduate student pursuing a Masters in Artificial Intelligence and Data Sc
 - 📫 Feel free to reach out to me via email at [your@email.com].
 - 🌐 Visit my website [here](https://yourwebsite.com).
 
+## Skills
+- Languages: C,C++,R,Python
+- Machine Learning: regression 
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/prachi-varshney-2b067a123/)
