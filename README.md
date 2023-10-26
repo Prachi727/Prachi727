@@ -16,12 +16,17 @@ I'm a graduate student pursuing a Masters in Artificial Intelligence and Data Sc
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via email at [your@email.com].
+- 📫 Feel free to reach out to me via email at [prachivarshney999@gmail.com].
 - 🌐 Visit my website [here](https://yourwebsite.com).
 
 ## Skills
-- Languages: C,C++,R,Python
-- Machine Learning: regression 
+- Languages: Python, R, c++
+- Machine Learning: Regression, Classification, Clustering, Neural Networks, Deep Learning
+- Tools & Libraries: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch,Relu, Keras
+- Data Analysis: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering
+- Version Control: Git, GitHub
+- Databases: SQL, SQLite
+- Other: Jupyter Notebooks, Data Visualization, Gcolab(Google Colaboratory)
 
 ## Connect with Me
 
